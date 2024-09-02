@@ -29,4 +29,4 @@ Auth
 
 **Usage:**
 
-Integrating the ProLMS plugin into your Moodle instance is a straightforward process. Consult the provided documentation for installation and configuration instructions. Once set up, administrators can define subscription packages, manage user subscriptions, and monitor site access.
+Integrating the ProLMS plugin into your Moodle instance is a straightforward process. To obtain the code, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~0188ff047bab91ab3c). Once set up, administrators can define subscription packages, manage user subscriptions, and monitor site access.
